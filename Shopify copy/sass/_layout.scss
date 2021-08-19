@@ -5,7 +5,6 @@
   position: relative;
 
   @include respond(tab-land){
-    max-width: 120rem;
     margin: 0;
   }
  

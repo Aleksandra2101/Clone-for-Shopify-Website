@@ -1,0 +1,48 @@
+// $bp-largest: 75em;     // 1200px big-desktop
+// $bp-large: 68.75em;    // 1100px  small-desktop
+// $bp-medium: 62.5em;   // 1000px tab-land
+// $bp-small: 37.5em;     // 600px  tab-port
+// $bp-smallest: 31.25em; // 500px phone
+:root{
+    --color-primary:#fbf7ed;
+    --color-secondary:#008060;
+    --color-tertiary:#6b7177;
+    --color-green-dark:#004c3f;
+
+
+
+}
+
+
+* {
+    padding: 0;
+    margin:  0;
+    
+    
+  }
+  
+  html {
+     
+    font-size: 62.5%;
+    overflow-x: hidden;
+    box-sizing: border-box;
+
+  
+  
+  
+    
+  }
+  
+  body {
+    font-family: Roboto, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    color:#6b7177 ;
+    margin:0 10rem;
+    
+    // overflow: hidden;
+    }
+
+
+
+   
